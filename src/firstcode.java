@@ -19,6 +19,27 @@ public class firstcode {
 		System.out.println(f1);
 		System.out.println(l1);
 		System.out.println(a);
+		
+		add ();
 		}
+	
+	public static void add() {
+		int m=6,n=2;
+		int r=m+n;
+		int r2=m-n;
+		int r3=m*n;
+		int r4=m/n;
+		
+		System.out.println(r);
+		System.out.println(r2);
+		System.out.println(r3);
+		System.out.println(r4);
+		
+	}
+
 
 }
+
+
+	
+
