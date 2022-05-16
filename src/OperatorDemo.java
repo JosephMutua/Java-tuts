@@ -12,7 +12,7 @@ public class OperatorDemo {
 		
 		//Incremental operator
 		
-		n++;
+		n++; // n+=1
 		System.out.println(n);
 
 	}

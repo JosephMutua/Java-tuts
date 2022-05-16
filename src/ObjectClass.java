@@ -1,5 +1,5 @@
 
-class calc{
+class Calcde{
 	int num1;
 	int num2;
 	int results;
@@ -14,7 +14,7 @@ class calc{
 public class ObjectClass {
 	
 	public static void main(String[] args) {
-		calc obj = new calc();
+		Calcde obj = new Calcde();
 		obj.num1 = 3;
 		obj.num2 = 5;
 		

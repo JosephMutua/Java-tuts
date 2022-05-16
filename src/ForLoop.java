@@ -1,3 +1,4 @@
+import org.junit.Test;
 
 public class ForLoop {
 
@@ -27,7 +28,7 @@ public class ForLoop {
 			System.out.println();
 		}
 	}
-	
+	@Test
 	private static void demo() {
 		
 		for (int y=1; y<=10; y++) {
