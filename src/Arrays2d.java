@@ -19,6 +19,16 @@ public class Arrays2d {
 			
 			System.out.println();
 		}
+		
+	for (int k[] : nums) 
+	{
+		for (int q : k) 
+		{
+			System.out.print(" " + q);
+		}
+		
+		System.out.println();
+	}
 
 	}
 

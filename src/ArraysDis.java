@@ -17,6 +17,11 @@ public class ArraysDis {
 		System.out.println(nums[i]);
 		
 		}
+		
+		for (int k : nums) 
+		{
+			System.out.println(k);
+		}
 	}
 
 }
